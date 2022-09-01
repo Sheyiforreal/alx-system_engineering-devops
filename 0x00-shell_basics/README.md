@@ -1,1 +1,1 @@
-displaying the content lists of the current directory
+changes working directory to home directory
