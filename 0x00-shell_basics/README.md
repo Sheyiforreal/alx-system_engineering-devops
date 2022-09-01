@@ -1,1 +1,1 @@
-display current directory contents with user and group IDs displayed numerically
+create a script that creates a directory named my_first_directory in the /tmp/ directory
