@@ -1,1 +1,1 @@
-a script that changes working firectory to previous one
+a script that list all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
