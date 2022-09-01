@@ -1,1 +1,1 @@
- Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
+create a script that copies html files from the current working directoryto the parent of the working directory
