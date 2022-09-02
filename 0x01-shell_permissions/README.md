@@ -1,1 +1,1 @@
-script that changes owner and group to vincent staff and hello respectively
+Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
