@@ -1,1 +1,1 @@
-to change group owner to school for the file hello
+script that changes owner to vincent and group owner to staff
