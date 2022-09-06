@@ -11,3 +11,4 @@ a script that counts the number of directories and subdirectories in the current
 a script that displays the 10 newest files in the current directory
 a script that takes a list of words as input and prints only words that appear only once
 lines containg the pattern 'roots' from the file /etc/passwd
+numbers of lines that contains pattern "bin" in the file /etc/passwd
