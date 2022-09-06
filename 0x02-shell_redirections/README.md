@@ -14,3 +14,4 @@ lines containg the pattern 'roots' from the file /etc/passwd
 numbers of lines that contains pattern "bin" in the file /etc/passwd
 lines containing pattern roots and three lines before them in the file /etc/passwd
 all the lines in /etc/passwd that do not contain the pattern "bin"
+displaying all lines with the file /etc/ssh/sshd config starting with a letter
