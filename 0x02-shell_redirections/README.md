@@ -16,3 +16,4 @@ lines containing pattern roots and three lines before them in the file /etc/pass
 all the lines in /etc/passwd that do not contain the pattern "bin"
 displaying all lines with the file /etc/ssh/sshd config starting with a letter
 replacing all characters a and c from input to z and e respectively
+a script that removes all letter c and C from input
