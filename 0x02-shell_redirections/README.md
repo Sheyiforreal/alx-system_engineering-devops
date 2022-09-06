@@ -13,3 +13,4 @@ a script that takes a list of words as input and prints only words that appear o
 lines containg the pattern 'roots' from the file /etc/passwd
 numbers of lines that contains pattern "bin" in the file /etc/passwd
 lines containing pattern roots and three lines before them in the file /etc/passwd
+all the lines in /etc/passwd that do not contain the pattern "bin"
