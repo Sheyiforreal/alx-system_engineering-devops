@@ -18,3 +18,4 @@ displaying all lines with the file /etc/ssh/sshd config starting with a letter
 replacing all characters a and c from input to z and e respectively
 a script that removes all letter c and C from input
 a script that reverse its input
+a script that displays all users and their home directories,sorted by users
