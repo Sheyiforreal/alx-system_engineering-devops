@@ -4,3 +4,4 @@ display the contents of etc/passd and etc/hosts
 last 10 lines of etc/passwd
 display first 10 lines of etc/passwd
 a script that displays the 3rd line of the file iacta
+a file containing best school
