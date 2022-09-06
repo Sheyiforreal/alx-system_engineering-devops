@@ -1,1 +1,1 @@
-a script tyhat prints a new command hello,world followed by a new starntand output
+a script that displays a confused smiley
