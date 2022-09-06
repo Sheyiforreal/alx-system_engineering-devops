@@ -7,4 +7,5 @@ a script that displays the 3rd line of the file iacta
 a file containing best school
 a script that writes into the fila script that duplicates the last line of iacta
 a script that deletes all regular files
-a script that counts the number of directories and subdirectories in the current directory
+a script that counts the number of directories and subdirectories in the current director
+a script that displays the 10 newest files in the current directory
